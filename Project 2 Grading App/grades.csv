@@ -1,0 +1,6 @@
+student_name,attempts,score1,score2,score3,score4,highest_score
+Nicolas Smith,1,0,0,0,0,0
+Nicolas Smith,2,3,4,0,0,4
+nic,4,92,80,57,85,92
+Nic,4,1,2,3,4,4
+nic,4,23.0,34.0,45.0,56.0,56.0
